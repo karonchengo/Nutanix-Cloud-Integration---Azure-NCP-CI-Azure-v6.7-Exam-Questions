@@ -1,0 +1,1 @@
+# Nutanix-Cloud-Integration---Azure-NCP-CI-Azure-v6.7-Exam-Questions
